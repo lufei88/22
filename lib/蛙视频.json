@@ -1,0 +1,25 @@
+{
+
+"站名":"蛙视频",
+"请求头": "手机",
+"主页url":"https://www.wvod.tv/",
+"图片":"data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"副标题":"pic-text text-right\"&&</span>",
+"链接":"href=\"&&\"",
+"播放数组":"hl-plays-list hl-sort-list&&</ul>",
+"搜索模式":1,
+"搜索url":"/vodsearch/page/{pg}/wd/{wd}.html",
+"搜索标题":"alt=\"&&\"",
+"搜索图片":"data-original=\"&&\"",
+"搜索链接":"href=\"&&\"",
+"导演":"导演：&&</a>",
+"主演":"主演：&&</a>",
+"简介":"hl-text-muted\">&&</li>",
+"嗅探词": ".m3u8#mp4#cdn.123pan.cn#huoshanvod.com",
+"分类url":"https://www.wvod.tv/vodshow/id/{cateId}/page/{catePg}.html",
+
+"分类数组":"hl-nav-item hl-slide-swiper&&</li>",
+"分类标题":"<a href=*\">&&</a>",
+"分类ID":"/vodtype/id/&&.html"
+}
